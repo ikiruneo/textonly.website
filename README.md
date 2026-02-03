@@ -17,5 +17,3 @@ Visit [textonly.website](https://textonly.website) to browse the collection of t
 ## Contact
 
 Still using IRC? Join `#textonly` on libera.chat.
-
-This project is maintained by [koray er](http://korayer.de) and was founded by [josh osborne](https://joshosbrn.github.io/textonly/) in 2017.
